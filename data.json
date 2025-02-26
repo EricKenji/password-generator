@@ -1,0 +1,26 @@
+{
+    "Amazon": {
+        "email": "abc@gmail.com",
+        "password": "3A+C+(S9iUhC*V"
+    },
+    "Apple": {
+        "email": "abc@gmail.com",
+        "password": "8H0XB*4Nt(TE&vd7"
+    },
+    "Spotify": {
+        "email": "abc@gmail.com",
+        "password": "W0GASGkCu+7Jy!9"
+    },
+    "Chewy": {
+        "email": "abc@gmail.com",
+        "password": "6W7(3$fWhSs3fG"
+    },
+    "Walmart": {
+        "email": "abc@gmail.com",
+        "password": "tg(K1vRmU+*H66S"
+    },
+    "Petco": {
+        "email": "abc@gmail.com",
+        "password": "CRjj%6x9X2XE(4"
+    }
+}
